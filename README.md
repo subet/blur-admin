@@ -44,4 +44,4 @@ License
 
 ### From subet
 
-Similar admin themes can be found on ![Usebootstrap Admin Themes](https://usebootstrap.com/themes/admin-dashboard)
+Similar admin themes can be found on https://usebootstrap.com/themes/admin-dashboard
