@@ -42,7 +42,6 @@ License
 -------------
 <a href=/LICENSE.txt target="_blank">MIT</a> license.
 
-### From akveo
+### From subet
 
-Enjoy!
-We're always happy to hear your feedback.
+Similar admin themes can be found on ![Usebootstrap Admin Themes](https://usebootstrap.com/themes/admin-dashboard)
